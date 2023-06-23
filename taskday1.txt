@@ -1,0 +1,19 @@
+1.Write a blog on Difference between HTTP1.1 vs HTTP2
+       HTTP 1.1
+        It is useful in resuablity
+        It has limited request and response 
+        It works on Textual format
+       HTTP 2
+        It is concurrent
+        It can Handle many request and many response at a time
+        It works on binary protocol
+
+
+
+
+2.Write a blog about objects and its internal representation in Javascript
+      Object is the instance of the variable by using object we can all the method. Js object is the collection of named values having method and properties.
+       eg; var car=new Object();
+            car.brand= "TATA"; car.year=2009;
+            console.log(car);
+            consoel.log(car.brand);
